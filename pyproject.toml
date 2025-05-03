@@ -5,9 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.6",
     "llama-index-embeddings-ollama>=0.6.0",
     "llama-index-graph-stores-neo4j>=0.4.6",
     "llama-index-llms-ollama>=0.5.4",
     "llama-index-vector-stores-qdrant>=0.6.0",
     "llama-index>=0.12.34",
+    "neo4j-graphrag>=1.7.0",
+    "neo4j>=5.28.1",
+    "pydantic>=2.11.4",
+    "qdrant-client>=1.14.2",
 ]
