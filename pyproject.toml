@@ -7,6 +7,8 @@ requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.6",
+    "langchain>=0.3.25",
+    "langchain-experimental>=0.3.4",
     "llama-index-embeddings-ollama>=0.6.0",
     "llama-index-graph-stores-neo4j>=0.4.6",
     "llama-index-llms-ollama>=0.5.4",
@@ -16,4 +18,8 @@ dependencies = [
     "neo4j>=5.28.1",
     "pydantic>=2.11.4",
     "qdrant-client>=1.14.2",
+    "langchain-neo4j>=0.4.0",
+    "langchain-ollama>=0.3.2",
+    "pypdf>=5.4.0",
+    "langchain-community>=0.3.23",
 ]
