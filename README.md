@@ -3,7 +3,7 @@
 Ever think about experimenting with GraphRAG? This repository aims to be a simple guide to setup a GraphRAG application, and is a companion resource to an upcoming Medium publication.
 
 <p align="center">
-    <img src="./images/ZoomIn.png">
+    <img src="./images/llamaindex_neo4j.png">
 </p>
 
 ## Setup
