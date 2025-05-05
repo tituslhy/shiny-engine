@@ -6,6 +6,10 @@ Ever think about experimenting with GraphRAG? This repository aims to be a simpl
     <img src="./images/llamaindex_neo4j.png">
 </p>
 
+<p align="center">
+    <img src="./images/llamaindex_neo4j_zoom.png">
+</p>
+
 ## Setup
 Using poetry
 ```
