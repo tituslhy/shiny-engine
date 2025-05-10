@@ -26,4 +26,6 @@ dependencies = [
     "pyvis>=0.3.2",
     "jupyterlab>=4.4.1",
     "langchain-groq>=0.3.2",
+    "crawl4ai>=0.6.2",
+    "playwright>=1.52.0",
 ]
