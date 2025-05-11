@@ -2,10 +2,12 @@
 
 Ever think about experimenting with GraphRAG? This repository aims to be a simple guide to setup a GraphRAG application, and is a companion resource to an upcoming Medium publication.
 
+## Here's what our full graph looks like
 <p align="center">
     <img src="./images/full_kg.png">
 </p>
 
+## Here's a zoomed-in snippet of the graph
 <p align="center">
     <img src="./images/full_kg_zoomed.png">
 </p>
