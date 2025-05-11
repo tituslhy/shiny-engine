@@ -25,3 +25,5 @@ Using UV
 pip install uv
 uv sync
 ```
+
+You need to have access to docker desktop or a Neo4j aura instance to use Neo4j!
