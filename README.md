@@ -10,6 +10,8 @@ Ever think about experimenting with GraphRAG? This repository aims to be a simpl
     <img src="./images/llamaindex_neo4j_zoom.png">
 </p>
 
+The main code can be found in `main_notebook.ipynb` on the root folder.
+
 ## Setup
 Using poetry
 ```
